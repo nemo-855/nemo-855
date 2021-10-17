@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nemo-855)](https://github.com/anuraghazra/github-readme-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=nemo-855&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
