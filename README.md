@@ -1,4 +1,5 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=nemo-855)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 **nemo-855/nemo-855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
