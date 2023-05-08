@@ -1,7 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nemo-855&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nemo-855&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
